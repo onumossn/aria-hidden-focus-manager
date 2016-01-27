@@ -1,0 +1,23 @@
+{
+  "name": "aria-hidden-focus-manager",
+  "version": "0.0.1",
+  "description": "Help manage keyboard focus with aria-hidden regions",
+  "main": "src/aria-hidden-focus-manager.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onumossn/aria-hidden-focus-manager"
+  },
+  "keywords": [
+    "aria",
+    "aria-hidden",
+    "web",
+    "accessibility",
+    "focus"
+  ],
+  "author": "Mohammed Nauage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onumossn/aria-hidden-focus-manager/issues"
+  },
+  "homepage": "https://github.com/onumossn/aria-hidden-focus-manager"
+}
